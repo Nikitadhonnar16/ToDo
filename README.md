@@ -4,9 +4,6 @@
 
 In this project, I have created a celebrities Data Management System web App using React JS, Javascirpt, CSS, Bootstrap, HTML and css.
 
-![](https://github.com/Nikitadhonnar16/Product_Inventory_Management_System/blob/main/images/main_page.png)
-![](https://github.com/Nikitadhonnar16/Product_Inventory_Management_System/blob/main/images/Madal_page.png)
-
 ## To start a project
 
 > npm install i
