@@ -72,4 +72,4 @@ Open a brower and type below:
 
 # After Deleted First item
 
-![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/after-deleted- first-item.png)
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/after-deleted-first-item.png)
