@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# celebrities Data Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+=================
 
-## Available Scripts
+In this project, I have created a celebrities Data Management System web App using React JS, Javascirpt, CSS, Bootstrap, HTML and css.
 
-In the project directory, you can run:
+![](https://github.com/Nikitadhonnar16/Product_Inventory_Management_System/blob/main/images/main_page.png)
+![](https://github.com/Nikitadhonnar16/Product_Inventory_Management_System/blob/main/images/Madal_page.png)
 
-### `npm start`
+## To start a project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> npm install i
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> npm start
 
-### `npm test`
+## To access a project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Open a brower and type below:
 
-### `npm run build`
+> http://localhost:3000/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. List View of celebrities
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Large(desktop) Device List view
 
-### `npm run eject`
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/List-view-lg.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Medium (tab) Device List view
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/List-view-md.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# small (mobile) Device List view
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/List-view-sm.png)
 
-## Learn More
+2. having search bar to search the list by celebrity name.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/search-view.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. open view
 
-### Code Splitting
+# Large(desktop) Device Open view
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/open-view-lg.png)
 
-### Analyzing the Bundle Size
+# Medium (tab) Device Open view
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/open-view-md.png)
 
-### Making a Progressive Web App
+# Small (mobile) Device Open view
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/open-view-sm.png)
 
-### Advanced Configuration
+2. Update Celebrities Data
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Before updating
 
-### Deployment
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/before-edit-view.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# While updating
 
-### `npm run build` fails to minify
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/before-edit-view.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# After updating
+
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/while-editing.png)
+
+3. Delete Celebrities Data
+
+# Delete Popup view
+
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/deleting-popup.png)
+
+# After Deleted First item
+
+![](https://github.com/Nikitadhonnar16/ToDo/blob/main/images/after-deleted- first-item.png)
