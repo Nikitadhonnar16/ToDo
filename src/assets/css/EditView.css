@@ -1,0 +1,66 @@
+.List-view {
+  margin: auto;
+}
+
+.label {
+  color: gray;
+}
+.val {
+  font-size: 15px;
+}
+
+.List-view-inner {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.input-style {
+  text-align: center;
+  margin-top: 5px;
+  border: 2px solid #d4caca;
+  width: 110px;
+  padding: 4px;
+}
+
+.input-style:focus {
+  border-color: #d4caca; /* Border color when focused */
+  outline: none; /* Remove default outline if needed */
+}
+
+.input-style2 {
+  text-align: center;
+  margin-top: 5px;
+  border: 2px solid #d4caca;
+  width: 160px;
+  padding: 4px;
+}
+
+.input-style2:focus {
+  border-color: #d4caca; /* Border color when focused */
+  outline: none; /* Remove default outline if needed */
+}
+
+.input-style3 {
+  text-align: center;
+  margin-top: 5px;
+  border: 2px solid #d4caca;
+  width: 600px;
+
+  padding: 4px;
+}
+
+.input-style3:focus {
+  border-color: #d4caca; /* Border color when focused */
+  outline: none; /* Remove default outline if needed */
+}
+
+.close-icon {
+  color: red;
+  cursor: pointer;
+}
+
+.save-icon {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}

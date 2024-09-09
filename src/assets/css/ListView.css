@@ -1,0 +1,80 @@
+.search {
+  border: 1px solid #d4caca;
+  padding: 10px;
+}
+
+.search-field {
+  border: none;
+  outline: none;
+}
+
+.search-field:focus {
+  box-shadow: none; /* Remove box-shadow on focus */
+  border: none; /* Ensure there's no border on focus */
+}
+
+.List-view {
+  margin: auto;
+}
+
+.label {
+  color: gray;
+}
+.val {
+  font-size: 15px;
+}
+
+.List-view-inner {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.delete-icon {
+  color: red;
+  cursor: pointer;
+}
+
+.pencil-icon {
+  color: #267bf1;
+  cursor: pointer;
+}
+
+.cancel {
+  border: 1px solid #d4caca;
+  outline: none;
+  background-color: transparent;
+  padding: 8px 20px;
+  border-radius: 10px;
+  color: black;
+}
+
+.delete {
+  background-color: red;
+  color: white;
+  outline: none;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 10px;
+}
+
+.cancel:hover,
+.cancel:focus,
+.cancel:active {
+  background-color: transparent !important; /* Retains original background color */
+  color: black; /* Retains original text color */
+  border-color: #d4caca; /* Retains original border color */
+}
+
+.delete:hover,
+.delete:focus,
+.delete:active {
+  background-color: red !important; /* Retains original background color */
+  color: white; /* Retains original text color */
+  border: none; /* Retains original border style */
+}
+
+.btn-close {
+  position: absolute;
+  top: 15px;
+  right: 10px;
+}
